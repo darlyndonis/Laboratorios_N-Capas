@@ -11,6 +11,7 @@ import java.util.List;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
+//Informacion básica del pokemon
 public class Pokemon {
 
     private String nombre;
